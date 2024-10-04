@@ -9,7 +9,7 @@ export default function Header() {
           alt="Investment Calculator logo"
         />
       </figure>
-      <h1>React Investment Calculator</h1>
+      <h1>Investment Calculator</h1>
     </header>
   );
 }
